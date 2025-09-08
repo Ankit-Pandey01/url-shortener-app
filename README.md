@@ -29,23 +29,21 @@ validity, and click counts. Data is stored in the browser using
 ##   Installation & Setup
 
 1.  Clone the repository:
-
-    ``` bash
-    git clone https://github.com/your-username/url-shortener-app.git
+   git clone https://github.com/your-username/url-shortener-app.git
     cd url-shortener-app
-    ```
+    
 
 2.  Install dependencies:
 
-    ``` bash
+
     npm install
-    ```
+  
 
 3.  Start development server:
 
-    ``` bash
+    
     npm start
-    ```
+   
 
 4.  Open in your browser:
 
