@@ -32,12 +32,14 @@ validity, and click counts. Data is stored in the browser using
    git clone https://github.com/your-username/url-shortener-app.git
     cd url-shortener-app
     
+---------------------------------------------------------------------
 
 2.  Install dependencies:
 
 
     npm install
   
+-----------------------------------------------------------------------
 
 3.  Start development server:
 
@@ -47,7 +49,7 @@ validity, and click counts. Data is stored in the browser using
 
 4.  Open in your browser:
 
-        http://localhost:3000
+    http://localhost:3000
 
 ------------------------------------------------------------------------
 
